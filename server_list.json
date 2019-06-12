@@ -1,0 +1,31 @@
+[{
+	"name": "外网测试服",
+	"url": "http://47.100.229.102/get_info?channel={0}"
+}, {
+	"name": "版署测试服",
+	"url": "http://47.104.190.157/get_info?channel={0}"
+}, {
+	"name": "内网测试服",
+	"url": "http://192.168.1.111/get_info?channel={0}"
+}, {
+	"name": "郭磊服",
+	"url": "http://192.168.1.86/get_info?channel={0}"
+}, {
+	"name": "叶斌服",
+	"url": "http://192.168.1.177/get_info?channel={0}"
+}, {
+	"name": "关天昊服",
+	"url": "http://192.168.1.186/get_info?channel={0}"
+}, {
+	"name": "繁忙服",
+	"url": "http://192.168.1.21/get_info?channel={0}"
+}, {
+	"name": "zzz",
+	"url": "http://192.168.1.110/get_info?channel={0}"
+}, {
+	"name": "bilibili服务器",
+	"url": "http://193.112.239.130/get_info?channel={0}"
+}, {
+	"name": "97测试服务器",
+	"url": "http://120.79.210.97/get_info?channel={0}"
+}]
