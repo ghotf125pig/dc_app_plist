@@ -23,7 +23,7 @@
 	"name": "zzz",
 	"url": "http://192.168.1.110/get_info?channel={0}"
 }, {
-	"name": "bilibili服务器",
+	"name": "bili预发布测试服",
 	"url": "http://134.175.211.83/get_info?channel={0}"
 }, {
 	"name": "97测试服务器",
