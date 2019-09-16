@@ -28,4 +28,7 @@
 }, {
 	"name": "97测试服务器",
 	"url": "http://120.79.210.97/get_info?channel={0}"
+}, {
+	"name": "本地服务器",
+	"url": "http://127.0.0.1/get_info?channel={0}"
 }]
